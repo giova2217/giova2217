@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://x.com/giova2217" target="blank"><img src="https://img.shields.io/twitter/follow/giova2217?logo=x&style=for-the-badge" alt="giova2217" /></a> </p>
 
-- ✍🏻 I’m currently working on [Progetto Eco](https://github.com/Giova2217/ProgettoEco)
+- 🎓 Currently studying Computer Engineering at "Politecnico di Milano" [(Polimi)](https://www.polimi.it/)
 
-- 🤩 I like to discover new things that will help me improving in my professional career
+- ✍🏻 Last Project [Progetto Eco](https://github.com/Giova2217/ProgettoEco)
+
+- 🤩 I like to discover new things that will help me improve in my professional career
 
 - 🔍 I'm looking for opportunities that allow me to apply and expand my skills
 
